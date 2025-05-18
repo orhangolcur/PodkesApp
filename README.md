@@ -81,7 +81,6 @@ flutter test
 
 - **Ad Soyad:** Orhan Gölcür  
 - **E-posta:** orhangolcur0@gmail.com  
-- **GitHub:** [github.com/KULLANICIADI](https://github.com/KULLANICIADI)
 
 ---
 
