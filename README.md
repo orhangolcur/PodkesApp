@@ -26,14 +26,9 @@
 
 <p align="center">
   <img src="screenshots/screen10.png" width="200" style="margin-right: 10px;" />
-  <img src="screenshots/screen11.png" width="200" style="margin-right: 10px;" />
   <img src="screenshots/screen12.png" width="200" style="margin-right: 10px;" />
-</p>
-
-<p align="center">
   <img src="screenshots/screen13.png" width="200" style="margin-right: 10px;" />
 </p>
-
 
 
 ---
