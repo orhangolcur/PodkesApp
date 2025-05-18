@@ -1,4 +1,4 @@
-# Podkes App
+# 🎧 Podkes
 
 **Podkes**, kullanıcıların podcast yayınlarını kolayca keşfedebileceği, dinleyebileceği ve favorilerine ekleyebileceği şık bir Flutter uygulamasıdır. Kullanıcı arayüzü modern ve sezgiseldir, veri yönetimi ise BLoC (Cubit) mimarisiyle sağlanmıştır. Gerçek podcast verileri ile çalışır ve kategori bazlı filtreleme sunar.
 
@@ -6,21 +6,19 @@
 
 ## 📸 Ekran Görüntüleri
 
-Aşağıda uygulamanın farklı ekranlarına ait toplam 13 adet ekran görüntüsü yer almaktadır:
-
-![screen1](screenshots/screen1.png)  
-![screen2](screenshots/screen2.png)  
-![screen3](screenshots/screen3.png)  
-![screen4](screenshots/screen4.png)  
-![screen5](screenshots/screen5.png)  
-![screen6](screenshots/screen6.png)  
-![screen7](screenshots/screen7.png)  
-![screen8](screenshots/screen8.png)  
-![screen9](screenshots/screen9.png)  
-![screen10](screenshots/screen10.png)  
-![screen11](screenshots/screen11.png)  
-![screen12](screenshots/screen12.png)  
-![screen13](screenshots/screen13.png)
+<img src="screenshots/screen1.png" width="300" />
+<img src="screenshots/screen2.png" width="300" />
+<img src="screenshots/screen3.png" width="300" />
+<img src="screenshots/screen4.png" width="300" />
+<img src="screenshots/screen5.png" width="300" />
+<img src="screenshots/screen6.png" width="300" />
+<img src="screenshots/screen7.png" width="300" />
+<img src="screenshots/screen8.png" width="300" />
+<img src="screenshots/screen9.png" width="300" />
+<img src="screenshots/screen10.png" width="300" />
+<img src="screenshots/screen11.png" width="300" />
+<img src="screenshots/screen12.png" width="300" />
+<img src="screenshots/screen13.png" width="300" />
 
 ---
 
@@ -46,7 +44,6 @@ Aşağıda uygulamanın farklı ekranlarına ait toplam 13 adet ekran görüntü
 | Flutter  | Uygulama geliştirme framework'ü |
 | Dart     | Programlama dili |
 | Bloc/Cubit | State yönetimi |
-| Dio      | API bağlantısı |
 | GoRouter | Sayfa yönlendirme |
 | Flutter Rating Bar | Puanlama popup’ı için |
 
