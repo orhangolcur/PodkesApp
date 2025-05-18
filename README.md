@@ -2,24 +2,6 @@
 
 **Podkes**, kullanıcıların podcast yayınlarını kolayca keşfedebileceği, dinleyebileceği ve favorilerine ekleyebileceği şık bir Flutter uygulamasıdır. Kullanıcı arayüzü modern ve sezgiseldir, veri yönetimi ise BLoC (Cubit) mimarisiyle sağlanmıştır. Gerçek podcast verileri ile çalışır ve kategori bazlı filtreleme sunar.
 
----
-
-## 📸 Ekran Görüntüleri
-
-| Onboarding | Ana Sayfa | Menü |
-|------------|-----------|------|
-| ![](screenshots/screen1.png) | ![](screenshots/screen3.png) | ![](screenshots/screen4.png) |
-
-| Keşfet (Kategori) | Kütüphane | Oynatıcı |
-|-------------------|------------|----------|
-| ![](screenshots/screen11.png) | ![](screenshots/screen8.png) | ![](screenshots/screen9.png) |
-
-| Profil | Uygulama Puanlama | Bildirim |
-|--------|--------------------|----------|
-| ![](screenshots/screen10.png) | ![](screenshots/screen12.png) | ![](screenshots/screen6.png) |
-
----
-
 ## 🚀 Özellikler
 
 - 🎙️ Podcast’leri kategorilere göre keşfetme (Komedi, Teknoloji, Eğitim, vb.)
